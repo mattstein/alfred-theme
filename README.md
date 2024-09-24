@@ -2,8 +2,8 @@
 
 My personal Alfred theme, which takes a smidge of inspiration from [Raycast](https://www.raycast.com) and uses [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/).
 
-![Dark Theme Screenshot](resources/screenshot-dark.png)
-![Light Theme Screenshot](resources/screenshot-ligh.png)
+![Dark Theme Screenshot](resources/screenshot-dark.jpg)
+![Light Theme Screenshot](resources/screenshot-light.jpg)
 
 > [!NOTE]
 > If you’d like a free alternative to Berkeley Mono, you might consider [Server Mono](https://servermono.com) or [iA Writer Mono](https://github.com/iaolo/iA-Fonts)!
