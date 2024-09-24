@@ -10,9 +10,9 @@
       },
       "shortcut" : {
         "size" : 14,
-        "colorSelected" : "#FFFFFFFF",
+        "colorSelected" : "#FBFFFFBE",
         "font" : "Berkeley Mono",
-        "color" : "#FFFFFF6B"
+        "color" : "#00000033"
       },
       "backgroundSelected" : "#989898D6",
       "text" : {
