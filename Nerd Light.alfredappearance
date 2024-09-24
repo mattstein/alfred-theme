@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#FBFFFFBE",
+        "font" : "Berkeley Mono",
+        "color" : "#00000033"
+      },
+      "shortcut" : {
+        "size" : 14,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Berkeley Mono",
+        "color" : "#FFFFFF6B"
+      },
+      "backgroundSelected" : "#989898D6",
+      "text" : {
+        "size" : 14,
+        "colorSelected" : "#FEFFFFFF",
+        "font" : "Berkeley Mono",
+        "color" : "#2B2B2BCC"
+      },
+      "iconPaddingHorizontal" : 10,
+      "roundness" : 5,
+      "paddingVertical" : 5,
+      "iconSize" : 20
+    },
+    "search" : {
+      "backgroundSelected" : "#B2D7FFFF",
+      "paddingHorizontal" : 8,
+      "spacing" : 4,
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#000000FF",
+        "font" : "Berkeley Mono",
+        "color" : "#2C2C2CFF"
+      },
+      "background" : "#00000000",
+      "roundness" : 0,
+      "paddingVertical" : 10
+    },
+    "window" : {
+      "color" : "#FFFFFFF1",
+      "paddingHorizontal" : 6,
+      "width" : 559,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 0,
+      "roundness" : 9,
+      "paddingVertical" : 6
+    },
+    "credit" : "Matt Stein",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#561A72FF",
+      "thickness" : 0
+    },
+    "name" : "Nerd Light"
+  }
+}
